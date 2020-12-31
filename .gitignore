@@ -1,4 +1,5 @@
-~$Config\config.bat
-~$Testfiles\PersonalGmails.bat
-~$Testfiles\test.bat
-~$Testfiles\
+Config\config.bat
+PersonalGmails.bat
+Testfiles\test.bat
+Testfiles\
+Testfiles/test.bat
